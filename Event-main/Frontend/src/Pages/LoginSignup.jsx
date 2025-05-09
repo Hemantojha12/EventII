@@ -192,7 +192,7 @@ const handleSignup = async () => {
         <div className="hidden md:block md:w-1/2 p-2">
           <div className="relative rounded-lg overflow-hidden shadow-xl">
             <img 
-              src='/src/assets/images/community.webp'
+              src='/src/assets/images/Community.webp'
               alt="Illustration"
               className="w-full h-full object-cover rounded-lg transition-transform transform hover:scale-105 hover:shadow-lg"
             />
